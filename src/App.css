@@ -1,0 +1,56 @@
+.hashtag-container {
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .hashtag-inputs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .hashtag-label {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .hashtag-input {
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  .hashtag-button {
+    padding: 8px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .hashtag-results {
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: white;
+  }
+  
+  .hashtag-heading {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .hashtag-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .hashtag-item {
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+
+
+  
